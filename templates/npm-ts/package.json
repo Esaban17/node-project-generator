@@ -1,0 +1,21 @@
+{
+  "name": "npm-ts",
+  "version": "1.0.0",
+  "description": "# Requirements * ... * ... * ...",
+  "main": "./dist/index.ts",
+  "types": "./dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "mocha": "^9.2.1"
+  },
+  "keywords": [],
+  "author": "Estuardo Sabán <estuardo1314@gmail.com>",
+  "license": "MIT"
+}
