@@ -8,8 +8,8 @@ desarrollados en este curso.
 * NPM >= 6.0.0
 
 # Install
-``` npm install -g node-project-creator```
+``` npm install -g node-project-creator-saban```
 
 # Usage
 Ejecutamos esta orden
-```node-project-creator```
+```node-project-creator-saban```

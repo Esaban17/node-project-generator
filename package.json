@@ -1,5 +1,5 @@
 {
-  "name": "node-project-generator",
+  "name": "node-project-generator-saban",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "url": "https://github.com/Esaban17/node-project-generator/issues"
   },
   "bin": {
-    "node-project-creator": "./index.js"
+    "node-project-creator-saban": "./index.js"
   },
   "homepage": "https://github.com/Esaban17/node-project-generator#readme",
   "dependencies": {
